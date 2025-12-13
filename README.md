@@ -10,5 +10,5 @@ This repo contains short reviews, ratings, and notes on movies I’ve seen.
 Just browse the files or open them in your favorite Markdown viewer.
 
 ### Reviews
-- Stagecoach --> [Spanish-txt](movies/stagecoach/stagecoach-es.txt)
-- Dazed And Confused --> [Spanish-txt](movies/dazed-and-confused/dazed-and-confused-es.txt)
+- Stagecoach (1939) --> Spanish [txt](movies/stagecoach/stagecoach-es.txt)
+- Dazed And Confused (1993) --> Spanish [txt](movies/dazed-and-confused/dazed-and-confused-es.txt)
