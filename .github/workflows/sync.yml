@@ -1,0 +1,31 @@
+name: Sincronizar TXT a MD
+
+on:
+  push:
+    paths:
+      - '**.txt' # active when changing .txt file
+
+jobs:
+  sync:
+    runs-rate: ubuntu-latest
+    permissions:
+      contents: write # When changes are made
+    
+    steps:
+      - name: Code checkout
+        uses: actions/checkout@v4
+
+      - name: Sync files
+        run: |
+          # search all the .txt files
+          for file in *.txt; do
+            # new name definition
+            base="${file%.txt}"
+            cp "$file" "$base.md"
+            echo "Sincronizado: $file -> $base.md"
+          done
+
+      - name: Save markdown changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-sync: .md refresh file refresh"
