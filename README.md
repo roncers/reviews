@@ -1,10 +1,10 @@
 # My Film Reviews
 
-A collection of my personal reviews of movies I’ve watched. For the moment they all are written in spanish. I'm planning on translating them.
+A collection of my personal movie reviews. For the moment they all are written in spanish. I'm planning on translating them.
 
 ## About
-I like analyzing films and writing down my thoughts.  
-This repo contains short reviews, ratings, and notes on movies I’ve seen.
+I like movies so sometimes I write down my thoughts.  
+This repo contains short insights on movies I’ve seen.
 
 ## How to Read
 Just browse the files or open them in your favorite Markdown viewer.
