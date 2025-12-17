@@ -19,7 +19,6 @@ jobs:
           find . -name "*.txt" -not -path "./.*" | while read -r file; do
             base="${file%.txt}"
             cp "$file" "$base.md"
-            echo "Sincronizado: $file -> $base.md"
           done
 
       - name: Save markdown changes
