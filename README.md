@@ -1,6 +1,7 @@
 # My Film Reviews
 
-A collection of my personal movie reviews. For the moment they all are written in spanish. I'm planning on translating them.
+This is a collection of my personal movie reviews. <br>
+For the moment they all are written in spanish. I'm planning on translating them.
 
 ## About
 I like movies so sometimes I write down my thoughts.  
