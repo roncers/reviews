@@ -1,4 +1,4 @@
-<a href="https://letterboxd.com/film/stagecoach/">Link to the spanish version / Enlace versión en español</a>
+<a href="https://letterboxd.com/roncers/film/stagecoach/2/#comments">Link to the spanish version / Enlace versión en español</a>
 
 <blockquote>"Well, they're saved from the blessings of civilization." – Doc Boone</blockquote>
 
