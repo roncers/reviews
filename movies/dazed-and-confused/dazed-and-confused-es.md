@@ -4,5 +4,5 @@ A pesar de su carácter relajado y su trama dispersa, la película tiene una uni
 
 Los junior siguen las tradiciones que se siguieron antes, se les maltrata y luego se les recompensa, un ciclo que ellos llevarán a cabo en el futuro con su promoción. El exceso de primerísimos primeros planos a los junior con ambiente onírico tanto en la fiesta como en el lavado de coches da a entender un entendimiento del mundo mágico. Una percepción elevada de la realidad. Una felicidad única y primeriza que será recordada. Contraponiéndolo a los planos de los senior que son más "de libro" da la sensación de que los junior solo tienen una percepción alterada de la realidad más que una suerte tremenda.
 
-Sobreanalizar una comedia tan dispersa puede ser visto como acabar con su magia o ser un pedantón.
+Sobreanalizar una comedia tan dispersa puede ser visto como ir en contra de su auténtica naturaleza. asf
 
