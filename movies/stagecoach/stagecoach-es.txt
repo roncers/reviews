@@ -100,6 +100,8 @@ Algunos funfacts que rodean la peli:
 
 &rarr;	Gerónimo era el único indio que realmente era Apache (fuera del papel), el resto eran Navajos.
 
+&rarr;	A finales de los 60 Peter Bogdanovich le hizo llegar a Ford la frase completa que dijo Orson en la entrevista: "En cuanto a directores favoritos prefiero los viejos maestros, con los que me refiero a: John Ford, John Ford y John Ford. Es un poeta y un comediante, con Ford en su máximo obtienes un toque de lo que la tierra está hecha, incluso si el guión está escrito por la madre Machree". Dias más tarde Orson Welles recibió un telegrama: "Querido Orson, gracias por el cumplido, amor madre Machree".
+
 
 Un apunte un poco más personal es que los días que me cuesta dormir y no me entra el sueño, por algún motivo me pongo a pensar en esta película. De hecho buena parte de esta review ha sido escrita en estas circunstancias. Tiene algo que se plasmó en mi mente y hacía que no parara de darle vueltas y cuanto más lo pensaba mejor me parecía. Sé que no es para todo el mundo, pero viendo lo que me ha aportado una película que salió 63 años antes de que yo naciera me hace reflexionar. Le da un sentido a todo. Los actores están muertos pero una pequeña parte de su vida quedó impregnada en la cinta y podemos verla, disfrutar de ella y hacer que forme parte de nosotros. Es algo que me parece bonito y uno de los motivos por los que me gustan las pelis antiguas.
 
