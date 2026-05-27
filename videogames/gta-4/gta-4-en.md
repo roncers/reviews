@@ -1,0 +1,4 @@
+Pop culture is rife with Niko Bellics. From Ethan Edwards in The Searchers to Travis Pickle in Taxi Driver and also down to Rambo in First Blood, the archetype of a war veteran who comes home unable to quiet the war raging inside of him is a classic trope. 
+Niko Bellic is thrown into a world he doesn't understand. Others call it freedom, but he only sees his cousin idilical life lies, bad weather, police chases, roads filled with cars and even road tolls. American dream, freedom, Liberty City, all was a bad joke. In this game Rockstar achieved providing a top-notch technical game with an idea very well integrated in it, an idea maybe not everyone will like.  
+
+Talk about The Journey radio station, how it captures the vibe of the game and a phrase that it says sometimes: "The eternal constant of life is that you are fucked". 
