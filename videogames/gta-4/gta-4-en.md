@@ -2,3 +2,6 @@ Pop culture is rife with Niko Bellics. From Ethan Edwards in The Searchers to Tr
 Niko Bellic is thrown into a world he doesn't understand. Others call it freedom, but he only sees his cousin idilical life lies, bad weather, police chases, roads filled with cars and even road tolls. American dream, freedom, Liberty City, all was a bad joke. In this game Rockstar achieved providing a top-notch technical game with an idea very well integrated in it, an idea maybe not everyone will like.  
 
 Talk about The Journey radio station, how it captures the vibe of the game and a phrase that it says sometimes: "The eternal constant of life is that you are fucked". song: PHILIP GRASS: Pruit Igoe.
+I'll take here originallity of mission
+Buoys Ahoy mission, Bernies dialogue about wanting to have fun but living a tragedy.
+In the little details and moments with the friends they tell a lot, Dwayne telling Niko that all is the same, being out of jail or in liberty. Or that short humanity parts when Packie tell Niko how his brothers were fighting and they stop when they saw Katie hidden, crying and shaking.
